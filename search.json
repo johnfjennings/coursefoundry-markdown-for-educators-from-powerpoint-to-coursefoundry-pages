@@ -1,0 +1,546 @@
+[
+  {
+    "objectID": "modules/02-steps/04-fourth-step.html",
+    "href": "modules/02-steps/04-fourth-step.html",
+    "title": "Step 4: Design visual course content with images, links, and tables",
+    "section": "",
+    "text": "Describe what this step accomplishes in one sentence.\n\n\n\nOpen your terminal and run:\n\n# Replace with your actual command\n\nYou should see the expected output.\nContinue with the next action…\n\n\n\n\n\n\n\nNote\n\n\n\nIf you see a different result, check that you completed the previous step correctly.\n\n\n\n\n\nBefore moving on, verify that:\n\nYour environment is responding correctly\nThe output matches what was shown above\n\n\n\n\nExplain briefly what the learner just did and why it matters.",
+    "crumbs": [
+      "Steps",
+      "Fourth Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/04-fourth-step.html#step-4-design-visual-course-content-with-images-links-and-tables",
+    "href": "modules/02-steps/04-fourth-step.html#step-4-design-visual-course-content-with-images-links-and-tables",
+    "title": "Step 4: Design visual course content with images, links, and tables",
+    "section": "",
+    "text": "Describe what this step accomplishes in one sentence.\n\n\n\nOpen your terminal and run:\n\n# Replace with your actual command\n\nYou should see the expected output.\nContinue with the next action…\n\n\n\n\n\n\n\nNote\n\n\n\nIf you see a different result, check that you completed the previous step correctly.\n\n\n\n\n\nBefore moving on, verify that:\n\nYour environment is responding correctly\nThe output matches what was shown above\n\n\n\n\nExplain briefly what the learner just did and why it matters.",
+    "crumbs": [
+      "Steps",
+      "Fourth Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/02-second-step.html",
+    "href": "modules/02-steps/02-second-step.html",
+    "title": "Step 2: Apply basic Markdown syntax for headings, emphasis, and lists",
+    "section": "",
+    "text": "Describe what this step accomplishes in one sentence.\n\n\n\nOpen your terminal and run:\n\n# Replace with your actual command\n\nYou should see the expected output.\nContinue with the next action…\n\n\n\n\n\n\n\nNote\n\n\n\nIf you see a different result, check that you completed the previous step correctly.\n\n\n\n\n\nBefore moving on, verify that:\n\nYour environment is responding correctly\nThe output matches what was shown above\n\n\n\n\nExplain briefly what the learner just did and why it matters.",
+    "crumbs": [
+      "Steps",
+      "Second Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/02-second-step.html#step-2-apply-basic-markdown-syntax-for-headings-emphasis-and-lists",
+    "href": "modules/02-steps/02-second-step.html#step-2-apply-basic-markdown-syntax-for-headings-emphasis-and-lists",
+    "title": "Step 2: Apply basic Markdown syntax for headings, emphasis, and lists",
+    "section": "",
+    "text": "Describe what this step accomplishes in one sentence.\n\n\n\nOpen your terminal and run:\n\n# Replace with your actual command\n\nYou should see the expected output.\nContinue with the next action…\n\n\n\n\n\n\n\nNote\n\n\n\nIf you see a different result, check that you completed the previous step correctly.\n\n\n\n\n\nBefore moving on, verify that:\n\nYour environment is responding correctly\nThe output matches what was shown above\n\n\n\n\nExplain briefly what the learner just did and why it matters.",
+    "crumbs": [
+      "Steps",
+      "Second Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/05-fifth-step.html",
+    "href": "modules/02-steps/05-fifth-step.html",
+    "title": "Step 5: Navigate CourseFoundry interface and edit .qmd files confidently",
+    "section": "",
+    "text": "Describe what this step accomplishes in one sentence.\n\n\n\nOpen your terminal and run:\n\n# Replace with your actual command\n\nYou should see the expected output.\nContinue with the next action…\n\n\n\n\n\n\n\nNote\n\n\n\nIf you see a different result, check that you completed the previous step correctly.\n\n\n\n\n\nBefore moving on, verify that:\n\nYour environment is responding correctly\nThe output matches what was shown above\n\n\n\n\nExplain briefly what the learner just did and why it matters.",
+    "crumbs": [
+      "Steps",
+      "Fifth Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/05-fifth-step.html#step-5-navigate-coursefoundry-interface-and-edit-.qmd-files-confidently",
+    "href": "modules/02-steps/05-fifth-step.html#step-5-navigate-coursefoundry-interface-and-edit-.qmd-files-confidently",
+    "title": "Step 5: Navigate CourseFoundry interface and edit .qmd files confidently",
+    "section": "",
+    "text": "Describe what this step accomplishes in one sentence.\n\n\n\nOpen your terminal and run:\n\n# Replace with your actual command\n\nYou should see the expected output.\nContinue with the next action…\n\n\n\n\n\n\n\nNote\n\n\n\nIf you see a different result, check that you completed the previous step correctly.\n\n\n\n\n\nBefore moving on, verify that:\n\nYour environment is responding correctly\nThe output matches what was shown above\n\n\n\n\nExplain briefly what the learner just did and why it matters.",
+    "crumbs": [
+      "Steps",
+      "Fifth Step"
+    ]
+  },
+  {
+    "objectID": "modules/04-assessments/01-assessments.html",
+    "href": "modules/04-assessments/01-assessments.html",
+    "title": "Assessments and Practice Activities",
+    "section": "",
+    "text": "These assessments help you practice converting your existing PowerPoint slides and Word documents to Markdown using your own teaching content.\n\n\nEach assessment builds on the previous one, using your actual course materials as practice content:\n\nAssessment 1: Basic conversion (headers, text)\nAssessment 2: Lists and emphasis\nAssessment 3: Visual content (images, links)\nAssessment 4: Complex layouts (tables, callouts)\nAssessment 5: Complete lesson publishing\nFinal Project: Full PowerPoint deck conversion\n\n\n\n\nWhy use YOUR content? - You know what the final result should look like - Builds confidence with familiar material - Creates actual course content you can use - Makes the learning immediately practical\nAssessment Format: - Knowledge checks: Quick understanding verification - Hands-on conversion: Transform your existing slides - Peer review: Share and get feedback - Self-reflection: Compare before/after experiences\n\n\n\n\nAfter Step 2: Your First Markdown Document\n\n\nQuestion 1: Which Markdown syntax creates the equivalent of a PowerPoint slide title? - a) Title Text - b) # Title Text - c) Title Text - d) Title Text:\nQuestion 2: How do you create a subtitle in Markdown? - a) Use ## before the text - b) Put it in parentheses - c) Use italic formatting - d) Add — underneath\nAnswer Key: 1-b, 2-a\n\n\n\nYour Task: Convert your PowerPoint title slide\n\nFind a PowerPoint presentation you use in class\nIdentify the title slide (usually slide 1)\nConvert it to Markdown using this template:\n\n---\ntitle: \"[Your slide title]\"\nsubtitle: \"[Your subtitle if you have one]\"\n---\n\n# [Main heading from your slide]\n\n[Any body text from your slide]\n\n## [Any subheadings]\n\n[Additional content]\nExample Conversion:\nBefore (PowerPoint slide): - Title: “Essay Writing Guidelines” - Subtitle: “English 101 - Fall 2024” - Body: “Learning to write clear, compelling academic essays”\nAfter (Markdown):\n---\ntitle: \"Essay Writing Guidelines\"\nsubtitle: \"English 101 - Fall 2024\"\n---\n\n# Essay Writing Guidelines\n\nLearning to write clear, compelling academic essays\n\n\n\n\nDoes your Markdown version contain all the text from your PowerPoint slide?\nAre the headings in the right hierarchy?\nWould a student get the same information from both versions?\n\n\n\n\n\n\nAfter Step 3: Lists and Emphasis Made Simple\n\n\nQuestion 1: To create a bulleted list in Markdown, you use: - a) * item or - item - b) • item - c) [item] - d) &gt; item\nQuestion 2: How do you make text bold in Markdown? - a) text - b) text - c) [text] - d) #text#\nQuestion 3: For a numbered list, you write: - a) (1) item - b) 1) item - c) 1. item - d) #1 item\nAnswer Key: 1-a, 2-b, 3-c\n\n\n\nYour Task: Convert a bulleted PowerPoint slide\n\nFind a PowerPoint slide with bullet points from your course\nConvert the bullets to Markdown format\nAdd emphasis where you had bold/italic in PowerPoint\n\nTemplate:\n# [Your slide title]\n\n## [Subtitle if needed]\n\n- [First bullet point]\n- [Second bullet point]\n  - [Sub-bullet if you have any]\n- [Third bullet point with **bold text**]\n- [Fourth bullet point with *emphasized text*]\n\n### [Section heading if needed]\n\n1. [First numbered item]\n2. [Second numbered item]\n3. [Third numbered item]\nReal Example Conversion:\nBefore (PowerPoint slide): “Research Paper Requirements” • Minimum 5 pages, double-spaced • Must include thesis statement • At least 3 scholarly sources required • MLA format mandatory • Due date: November 15th (NO EXTENSIONS)\nAfter (Markdown):\n# Research Paper Requirements\n\n- Minimum 5 pages, double-spaced\n- Must include **thesis statement**\n- At least 3 scholarly sources required\n- MLA format mandatory\n- Due date: November 15th (**NO EXTENSIONS**)\n\n\n\n\nWhich formatting was easier to apply - PowerPoint or Markdown?\nHow does the Markdown version look on different screen sizes?\nWhat would happen if you needed to change the formatting later?\n\n\n\n\n\n\nAfter Step 4: Visual Content Without the Hassle\n\n\nQuestion 1: To insert an image in Markdown: - a) [image.jpg] - b)  - c) {image.jpg} - d) &lt;image.jpg&gt;\nQuestion 2: To create a clickable link: - a) Link text - b) {Link text}(URL) - c) Link text: URL - d) Link text\nAnswer Key: 1-b, 2-a\n\n\n\nYour Task: Convert a visual PowerPoint slide\n\nChoose a PowerPoint slide with images and/or links\nSave any images from the slide to your computer\nConvert the slide including visual elements\n\nTemplate:\n# [Slide title]\n\n![Description of image](path/to/your/image.jpg)\n\n[Your slide text content]\n\n## Helpful Resources\n\n- [Link text](https://example.com)\n- [Another resource](https://example2.com)\nExample:\nBefore (PowerPoint slide): Title: “The Water Cycle” Image: Diagram showing evaporation, condensation, precipitation Text: “Water continuously moves through the environment” Link: “Learn more at EPA.gov”\nAfter (Markdown):\n# The Water Cycle\n\n![Diagram showing water cycle with evaporation, condensation, and precipitation](water-cycle-diagram.jpg)\n\nWater continuously moves through the environment in a continuous cycle.\n\n## Learn More\n\n- [Environmental Protection Agency Water Cycle Guide](https://epa.gov/water-cycle)\n\n\n\n\nCan you preview your image in the CourseFoundry editor?\nDo your links work when clicked?\nIs your alt text descriptive for accessibility?\n\n\n\n\n\n\nAfter Step 5: Structured Data Made Easy\n\n\nYour Task: Convert a complex PowerPoint slide with structured data\n\nFind a slide with a table, schedule, or structured information\nConvert it to Markdown table format\nAdd callout boxes for important information\n\nTable Template:\n| Column 1 | Column 2 | Column 3 |\n|----------|----------|----------|\n| Data 1   | Data 2   | Data 3   |\n| Data 4   | Data 5   | Data 6   |\nCallout Template:\n:::{.callout-note}\n## Important Note\nThis is important information for students\n:::\n\n:::{.callout-warning}\n## Warning\nThis is something students should be careful about\n:::\nReal Example:\nBefore (PowerPoint table):\nAssignment Schedule\nWeek 1: Reading Assignment - Chapter 1-3\nWeek 2: Discussion Post - Topic: Theories\nWeek 3: Quiz 1 - Covers chapters 1-3\nWeek 4: Essay Draft - 500 words minimum\nAfter (Markdown):\n# Assignment Schedule\n\n| Week | Assignment Type | Details |\n|------|----------------|----------|\n| 1 | Reading | Chapters 1-3 |\n| 2 | Discussion Post | Topic: Theories |\n| 3 | Quiz 1 | Covers chapters 1-3 |\n| 4 | Essay Draft | 500 words minimum |\n\n:::{.callout-warning}\n## Late Policy Reminder\nAll assignments are due by 11:59 PM on the specified date. Late submissions receive a 10% penalty per day.\n:::\n\n\n\n\n\nAfter Step 6: Publishing Your First Lesson\n\n\nConvert an entire PowerPoint presentation (3-5 slides) to a complete CourseFoundry lesson\nRequirements: 1. Choose a short PowerPoint from your course (3-5 slides max) 2. Convert ALL content to proper Markdown 3. Maintain the same information flow and structure 4. Publish the final result 5. Test it on mobile and desktop\nEvaluation Criteria: - ✅ All text content preserved and properly formatted - ✅ Images display correctly with alt text - ✅ Links work and open appropriately - ✅ Structure is logical and easy to follow - ✅ Published version is accessible and professional\n\n\n\nWrite a short reflection (200-300 words) addressing:\n\nWhat was easier about creating this content in Markdown vs. PowerPoint?\nWhat was more challenging, and how did you overcome it?\nHow might this change your approach to creating course content?\nWhat would you tell a colleague who’s hesitant to try Markdown?\n\n\n\n\nShare your converted lesson with a colleague and get feedback: - Is the content clear and well-organized? - Does it work well on mobile devices? - What would improve the student experience?\n\n\n\n\n\nFor each assessment, rate yourself:\nBeginner (1-2): I can follow examples but struggle with my own content Developing (3-4): I can convert simple content but need help with complex elements\nProficient (5-6): I can convert most content independently Advanced (7-8): I can convert complex content and help others Expert (9-10): I can convert any content and see ways to improve it\n\n\n\nAssessment 1: Headers and Structure ___/10\nAssessment 2: Lists and Emphasis ___/10\nAssessment 3: Images and Links ___/10\nAssessment 4: Tables and Layout ___/10\nFinal Project: Complete Conversion ___/10\n\nTotal Score: ___/50\nNext Steps Based on Your Score: - 40-50: You’re ready to start converting your course content! - 30-39: Practice with a few more examples before diving into full conversion - 20-29: Review the lessons and try the assessments again - Below 20: Consider working through the course more slowly or with a colleague",
+    "crumbs": [
+      "Assessments",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "modules/04-assessments/01-assessments.html#progressive-skill-building",
+    "href": "modules/04-assessments/01-assessments.html#progressive-skill-building",
+    "title": "Assessments and Practice Activities",
+    "section": "",
+    "text": "Each assessment builds on the previous one, using your actual course materials as practice content:\n\nAssessment 1: Basic conversion (headers, text)\nAssessment 2: Lists and emphasis\nAssessment 3: Visual content (images, links)\nAssessment 4: Complex layouts (tables, callouts)\nAssessment 5: Complete lesson publishing\nFinal Project: Full PowerPoint deck conversion",
+    "crumbs": [
+      "Assessments",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "modules/04-assessments/01-assessments.html#assessment-philosophy",
+    "href": "modules/04-assessments/01-assessments.html#assessment-philosophy",
+    "title": "Assessments and Practice Activities",
+    "section": "",
+    "text": "Why use YOUR content? - You know what the final result should look like - Builds confidence with familiar material - Creates actual course content you can use - Makes the learning immediately practical\nAssessment Format: - Knowledge checks: Quick understanding verification - Hands-on conversion: Transform your existing slides - Peer review: Share and get feedback - Self-reflection: Compare before/after experiences",
+    "crumbs": [
+      "Assessments",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "modules/04-assessments/01-assessments.html#assessment-1-headers-and-structure",
+    "href": "modules/04-assessments/01-assessments.html#assessment-1-headers-and-structure",
+    "title": "Assessments and Practice Activities",
+    "section": "",
+    "text": "After Step 2: Your First Markdown Document\n\n\nQuestion 1: Which Markdown syntax creates the equivalent of a PowerPoint slide title? - a) Title Text - b) # Title Text - c) Title Text - d) Title Text:\nQuestion 2: How do you create a subtitle in Markdown? - a) Use ## before the text - b) Put it in parentheses - c) Use italic formatting - d) Add — underneath\nAnswer Key: 1-b, 2-a\n\n\n\nYour Task: Convert your PowerPoint title slide\n\nFind a PowerPoint presentation you use in class\nIdentify the title slide (usually slide 1)\nConvert it to Markdown using this template:\n\n---\ntitle: \"[Your slide title]\"\nsubtitle: \"[Your subtitle if you have one]\"\n---\n\n# [Main heading from your slide]\n\n[Any body text from your slide]\n\n## [Any subheadings]\n\n[Additional content]\nExample Conversion:\nBefore (PowerPoint slide): - Title: “Essay Writing Guidelines” - Subtitle: “English 101 - Fall 2024” - Body: “Learning to write clear, compelling academic essays”\nAfter (Markdown):\n---\ntitle: \"Essay Writing Guidelines\"\nsubtitle: \"English 101 - Fall 2024\"\n---\n\n# Essay Writing Guidelines\n\nLearning to write clear, compelling academic essays\n\n\n\n\nDoes your Markdown version contain all the text from your PowerPoint slide?\nAre the headings in the right hierarchy?\nWould a student get the same information from both versions?",
+    "crumbs": [
+      "Assessments",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "modules/04-assessments/01-assessments.html#assessment-2-lists-and-emphasis",
+    "href": "modules/04-assessments/01-assessments.html#assessment-2-lists-and-emphasis",
+    "title": "Assessments and Practice Activities",
+    "section": "",
+    "text": "After Step 3: Lists and Emphasis Made Simple\n\n\nQuestion 1: To create a bulleted list in Markdown, you use: - a) * item or - item - b) • item - c) [item] - d) &gt; item\nQuestion 2: How do you make text bold in Markdown? - a) text - b) text - c) [text] - d) #text#\nQuestion 3: For a numbered list, you write: - a) (1) item - b) 1) item - c) 1. item - d) #1 item\nAnswer Key: 1-a, 2-b, 3-c\n\n\n\nYour Task: Convert a bulleted PowerPoint slide\n\nFind a PowerPoint slide with bullet points from your course\nConvert the bullets to Markdown format\nAdd emphasis where you had bold/italic in PowerPoint\n\nTemplate:\n# [Your slide title]\n\n## [Subtitle if needed]\n\n- [First bullet point]\n- [Second bullet point]\n  - [Sub-bullet if you have any]\n- [Third bullet point with **bold text**]\n- [Fourth bullet point with *emphasized text*]\n\n### [Section heading if needed]\n\n1. [First numbered item]\n2. [Second numbered item]\n3. [Third numbered item]\nReal Example Conversion:\nBefore (PowerPoint slide): “Research Paper Requirements” • Minimum 5 pages, double-spaced • Must include thesis statement • At least 3 scholarly sources required • MLA format mandatory • Due date: November 15th (NO EXTENSIONS)\nAfter (Markdown):\n# Research Paper Requirements\n\n- Minimum 5 pages, double-spaced\n- Must include **thesis statement**\n- At least 3 scholarly sources required\n- MLA format mandatory\n- Due date: November 15th (**NO EXTENSIONS**)\n\n\n\n\nWhich formatting was easier to apply - PowerPoint or Markdown?\nHow does the Markdown version look on different screen sizes?\nWhat would happen if you needed to change the formatting later?",
+    "crumbs": [
+      "Assessments",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "modules/04-assessments/01-assessments.html#assessment-3-images-and-links",
+    "href": "modules/04-assessments/01-assessments.html#assessment-3-images-and-links",
+    "title": "Assessments and Practice Activities",
+    "section": "",
+    "text": "After Step 4: Visual Content Without the Hassle\n\n\nQuestion 1: To insert an image in Markdown: - a) [image.jpg] - b)  - c) {image.jpg} - d) &lt;image.jpg&gt;\nQuestion 2: To create a clickable link: - a) Link text - b) {Link text}(URL) - c) Link text: URL - d) Link text\nAnswer Key: 1-b, 2-a\n\n\n\nYour Task: Convert a visual PowerPoint slide\n\nChoose a PowerPoint slide with images and/or links\nSave any images from the slide to your computer\nConvert the slide including visual elements\n\nTemplate:\n# [Slide title]\n\n![Description of image](path/to/your/image.jpg)\n\n[Your slide text content]\n\n## Helpful Resources\n\n- [Link text](https://example.com)\n- [Another resource](https://example2.com)\nExample:\nBefore (PowerPoint slide): Title: “The Water Cycle” Image: Diagram showing evaporation, condensation, precipitation Text: “Water continuously moves through the environment” Link: “Learn more at EPA.gov”\nAfter (Markdown):\n# The Water Cycle\n\n![Diagram showing water cycle with evaporation, condensation, and precipitation](water-cycle-diagram.jpg)\n\nWater continuously moves through the environment in a continuous cycle.\n\n## Learn More\n\n- [Environmental Protection Agency Water Cycle Guide](https://epa.gov/water-cycle)\n\n\n\n\nCan you preview your image in the CourseFoundry editor?\nDo your links work when clicked?\nIs your alt text descriptive for accessibility?",
+    "crumbs": [
+      "Assessments",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "modules/04-assessments/01-assessments.html#assessment-4-tables-and-advanced-layout",
+    "href": "modules/04-assessments/01-assessments.html#assessment-4-tables-and-advanced-layout",
+    "title": "Assessments and Practice Activities",
+    "section": "",
+    "text": "After Step 5: Structured Data Made Easy\n\n\nYour Task: Convert a complex PowerPoint slide with structured data\n\nFind a slide with a table, schedule, or structured information\nConvert it to Markdown table format\nAdd callout boxes for important information\n\nTable Template:\n| Column 1 | Column 2 | Column 3 |\n|----------|----------|----------|\n| Data 1   | Data 2   | Data 3   |\n| Data 4   | Data 5   | Data 6   |\nCallout Template:\n:::{.callout-note}\n## Important Note\nThis is important information for students\n:::\n\n:::{.callout-warning}\n## Warning\nThis is something students should be careful about\n:::\nReal Example:\nBefore (PowerPoint table):\nAssignment Schedule\nWeek 1: Reading Assignment - Chapter 1-3\nWeek 2: Discussion Post - Topic: Theories\nWeek 3: Quiz 1 - Covers chapters 1-3\nWeek 4: Essay Draft - 500 words minimum\nAfter (Markdown):\n# Assignment Schedule\n\n| Week | Assignment Type | Details |\n|------|----------------|----------|\n| 1 | Reading | Chapters 1-3 |\n| 2 | Discussion Post | Topic: Theories |\n| 3 | Quiz 1 | Covers chapters 1-3 |\n| 4 | Essay Draft | 500 words minimum |\n\n:::{.callout-warning}\n## Late Policy Reminder\nAll assignments are due by 11:59 PM on the specified date. Late submissions receive a 10% penalty per day.\n:::",
+    "crumbs": [
+      "Assessments",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "modules/04-assessments/01-assessments.html#final-assessment-complete-conversion-project",
+    "href": "modules/04-assessments/01-assessments.html#final-assessment-complete-conversion-project",
+    "title": "Assessments and Practice Activities",
+    "section": "",
+    "text": "After Step 6: Publishing Your First Lesson\n\n\nConvert an entire PowerPoint presentation (3-5 slides) to a complete CourseFoundry lesson\nRequirements: 1. Choose a short PowerPoint from your course (3-5 slides max) 2. Convert ALL content to proper Markdown 3. Maintain the same information flow and structure 4. Publish the final result 5. Test it on mobile and desktop\nEvaluation Criteria: - ✅ All text content preserved and properly formatted - ✅ Images display correctly with alt text - ✅ Links work and open appropriately - ✅ Structure is logical and easy to follow - ✅ Published version is accessible and professional\n\n\n\nWrite a short reflection (200-300 words) addressing:\n\nWhat was easier about creating this content in Markdown vs. PowerPoint?\nWhat was more challenging, and how did you overcome it?\nHow might this change your approach to creating course content?\nWhat would you tell a colleague who’s hesitant to try Markdown?\n\n\n\n\nShare your converted lesson with a colleague and get feedback: - Is the content clear and well-organized? - Does it work well on mobile devices? - What would improve the student experience?",
+    "crumbs": [
+      "Assessments",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "modules/04-assessments/01-assessments.html#self-assessment-rubric",
+    "href": "modules/04-assessments/01-assessments.html#self-assessment-rubric",
+    "title": "Assessments and Practice Activities",
+    "section": "",
+    "text": "For each assessment, rate yourself:\nBeginner (1-2): I can follow examples but struggle with my own content Developing (3-4): I can convert simple content but need help with complex elements\nProficient (5-6): I can convert most content independently Advanced (7-8): I can convert complex content and help others Expert (9-10): I can convert any content and see ways to improve it\n\n\n\nAssessment 1: Headers and Structure ___/10\nAssessment 2: Lists and Emphasis ___/10\nAssessment 3: Images and Links ___/10\nAssessment 4: Tables and Layout ___/10\nFinal Project: Complete Conversion ___/10\n\nTotal Score: ___/50\nNext Steps Based on Your Score: - 40-50: You’re ready to start converting your course content! - 30-39: Practice with a few more examples before diving into full conversion - 20-29: Review the lessons and try the assessments again - Below 20: Consider working through the course more slowly or with a colleague",
+    "crumbs": [
+      "Assessments",
+      "Assessments"
+    ]
+  },
+  {
+    "objectID": "modules/01-prerequisites/01-prerequisites.html",
+    "href": "modules/01-prerequisites/01-prerequisites.html",
+    "title": "Prerequisites",
+    "section": "",
+    "text": "This course is designed specifically for educators who are comfortable with PowerPoint and Word but ready to explore a more flexible way to create course content.\n\n\n✅ You can format text in Word or PowerPoint\n- Making text bold, italic, or underlined - Creating headings and subheadings - Adding bullet points and numbered lists\n✅ You can insert images and create basic layouts\n- Adding pictures to slides or documents - Creating simple tables - Organizing content with headings\n✅ You can save and organize files\n- Creating folders on your computer - Saving documents with descriptive names - Finding files you created last week (most of the time!)\n\n\n\n\n\n\nNoteDon’t Worry If You’re Not “Tech-Savvy”\n\n\n\nMany successful educators using Markdown describe themselves as “not technical people.” If you can format a Word document, you have the foundational skills needed for this course.\n\n\n\n\n\n\n\n\nA computer with internet access (laptop or desktop)\nOne of your existing PowerPoint presentations or Word documents\n\nSomething you use for teaching (syllabus, lesson plan, handout)\n3-5 slides or 2-3 pages work perfectly\nWe’ll use this for hands-on practice\n\nCourseFoundry account (free setup - we’ll guide you through this in Step 1)\n\n\n\n\n\nTotal time: 2 hours\nFlexible pacing: Complete at your own speed\nPractice time: Budget extra 30 minutes to experiment with your own content\n\n\n\n\n\n\n\n\nHow to recreate your PowerPoint slides using simple text formatting\nWhy Markdown makes your course content more accessible to all students\nHow to update course materials without version control nightmares\nThe basics of CourseFoundry for publishing your content\n\n\n\n\n\nAdvanced web development or coding\nComplex animations (PowerPoint transitions won’t translate)\nDetailed graphic design\nLearning management system integration\n\n\n\n\nAs an educator, you already understand what makes content clear and engaging. Markdown simply gives you a cleaner way to express those same ideas.\n\n\n\n\n\n\nReality: Neither were most educators who now use Markdown successfully. The syntax is simpler than Word’s formatting toolbar.\n\n\n\nReality: Markdown creates clean, accessible content that works on any device. No more wondering if your slides will display correctly on different computers.\n\n\n\nReality: This course includes troubleshooting for every common issue, plus a supportive community of educators making the same transition.\n\n\n\nReality: You don’t have to convert everything at once. Start with one lesson and build from there.\n\n\n\n\n\n\nTipReady Check\n\n\n\nBefore starting Step 1, make sure you have: - [ ] A computer with internet access - [ ] One PowerPoint or Word document ready for practice - [ ] 2 hours blocked out (or plan to work in chunks) - [ ] An open mind about trying something new\n\n\n\nReady to discover why thousands of educators are making this switch? Let’s start with Step 1: Understanding the Markdown advantage.",
+    "crumbs": [
+      "Prerequisites",
+      "Prerequisites"
+    ]
+  },
+  {
+    "objectID": "modules/01-prerequisites/01-prerequisites.html#what-you-already-know-your-foundation",
+    "href": "modules/01-prerequisites/01-prerequisites.html#what-you-already-know-your-foundation",
+    "title": "Prerequisites",
+    "section": "",
+    "text": "✅ You can format text in Word or PowerPoint\n- Making text bold, italic, or underlined - Creating headings and subheadings - Adding bullet points and numbered lists\n✅ You can insert images and create basic layouts\n- Adding pictures to slides or documents - Creating simple tables - Organizing content with headings\n✅ You can save and organize files\n- Creating folders on your computer - Saving documents with descriptive names - Finding files you created last week (most of the time!)\n\n\n\n\n\n\nNoteDon’t Worry If You’re Not “Tech-Savvy”\n\n\n\nMany successful educators using Markdown describe themselves as “not technical people.” If you can format a Word document, you have the foundational skills needed for this course.",
+    "crumbs": [
+      "Prerequisites",
+      "Prerequisites"
+    ]
+  },
+  {
+    "objectID": "modules/01-prerequisites/01-prerequisites.html#what-youll-need-for-this-course",
+    "href": "modules/01-prerequisites/01-prerequisites.html#what-youll-need-for-this-course",
+    "title": "Prerequisites",
+    "section": "",
+    "text": "A computer with internet access (laptop or desktop)\nOne of your existing PowerPoint presentations or Word documents\n\nSomething you use for teaching (syllabus, lesson plan, handout)\n3-5 slides or 2-3 pages work perfectly\nWe’ll use this for hands-on practice\n\nCourseFoundry account (free setup - we’ll guide you through this in Step 1)\n\n\n\n\n\nTotal time: 2 hours\nFlexible pacing: Complete at your own speed\nPractice time: Budget extra 30 minutes to experiment with your own content",
+    "crumbs": [
+      "Prerequisites",
+      "Prerequisites"
+    ]
+  },
+  {
+    "objectID": "modules/01-prerequisites/01-prerequisites.html#setting-realistic-expectations",
+    "href": "modules/01-prerequisites/01-prerequisites.html#setting-realistic-expectations",
+    "title": "Prerequisites",
+    "section": "",
+    "text": "How to recreate your PowerPoint slides using simple text formatting\nWhy Markdown makes your course content more accessible to all students\nHow to update course materials without version control nightmares\nThe basics of CourseFoundry for publishing your content\n\n\n\n\n\nAdvanced web development or coding\nComplex animations (PowerPoint transitions won’t translate)\nDetailed graphic design\nLearning management system integration\n\n\n\n\nAs an educator, you already understand what makes content clear and engaging. Markdown simply gives you a cleaner way to express those same ideas.",
+    "crumbs": [
+      "Prerequisites",
+      "Prerequisites"
+    ]
+  },
+  {
+    "objectID": "modules/01-prerequisites/01-prerequisites.html#common-concerns-addressed",
+    "href": "modules/01-prerequisites/01-prerequisites.html#common-concerns-addressed",
+    "title": "Prerequisites",
+    "section": "",
+    "text": "Reality: Neither were most educators who now use Markdown successfully. The syntax is simpler than Word’s formatting toolbar.\n\n\n\nReality: Markdown creates clean, accessible content that works on any device. No more wondering if your slides will display correctly on different computers.\n\n\n\nReality: This course includes troubleshooting for every common issue, plus a supportive community of educators making the same transition.\n\n\n\nReality: You don’t have to convert everything at once. Start with one lesson and build from there.\n\n\n\n\n\n\nTipReady Check\n\n\n\nBefore starting Step 1, make sure you have: - [ ] A computer with internet access - [ ] One PowerPoint or Word document ready for practice - [ ] 2 hours blocked out (or plan to work in chunks) - [ ] An open mind about trying something new\n\n\n\nReady to discover why thousands of educators are making this switch? Let’s start with Step 1: Understanding the Markdown advantage.",
+    "crumbs": [
+      "Prerequisites",
+      "Prerequisites"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "References",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Markdown for Educators: From PowerPoint to CourseFoundry",
+    "section": "",
+    "text": "Course Cover",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Markdown for Educators: From PowerPoint to CourseFoundry",
+    "section": "Overview",
+    "text": "Overview\nIn this course, you will learn to transform your existing Word documents and PowerPoint presentations into flexible, accessible course content using Markdown and Quarto. You’ll master the essential syntax for creating professional educational materials and discover how CourseFoundry streamlines the content creation process.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#what-youll-build",
+    "href": "index.html#what-youll-build",
+    "title": "Markdown for Educators: From PowerPoint to CourseFoundry",
+    "section": "What You’ll Build",
+    "text": "What You’ll Build\nBy the end of this 2-hour tutorial, you’ll have created a complete lesson page with headers, lists, images, tables, and links — all starting from your existing PowerPoint or Word content. You’ll publish this lesson to a live URL that’s accessible, maintainable, and ready for students.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#who-this-is-for",
+    "href": "index.html#who-this-is-for",
+    "title": "Markdown for Educators: From PowerPoint to CourseFoundry",
+    "section": "Who This Is For",
+    "text": "Who This Is For\nEducators who currently create course content in PowerPoint and Word, with little to no web development experience. No prior knowledge of Markdown or Quarto required — we’ll guide you through every step.\nEstimated time: 2 hours",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#course-structure",
+    "href": "index.html#course-structure",
+    "title": "Markdown for Educators: From PowerPoint to CourseFoundry",
+    "section": "Course Structure",
+    "text": "Course Structure\n\nPrerequisites (10 minutes)\n\nLearning Check: Are you ready to transition from PowerPoint/Word?\nSetup: What you’ll need to get started\n\n\n\nStep 1: Why Make the Switch? (15 minutes)\n\nUnderstanding the Markdown advantage over PowerPoint/Word\nReal examples comparing the same content in both formats\nIdentifying pain points in your current workflow\n\n\n\nStep 2: Your First Markdown Document (20 minutes)\n\nHeaders and text: The foundation\nConverting PowerPoint title slides to Markdown\nMastering paragraph formatting without menus\n\n\n\nStep 3: Lists and Emphasis (20 minutes)\n\nBullet points and numbered lists made simple\nBold, italic, and highlighting text\nConverting formatted Word content to Markdown\n\n\n\nStep 4: Links and Images (25 minutes)\n\nVisual content without the PowerPoint hassle\nCreating hyperlinks simpler than Word’s dialogs\nAdding accessibility with alt text\n\n\n\nStep 5: Tables and Organization (25 minutes)\n\nStructured data made easy\nCallout boxes for tips and warnings\nProfessional lesson layout techniques\n\n\n\nStep 6: Publishing Your First Lesson (20 minutes)\n\nFrom draft to live course content\nCourseFoundry’s preview and publishing system\nMaking updates without re-uploading files\n\n\n\nTroubleshooting (5 minutes)\n\nCommon transition issues and solutions\nTips for collaborating on Markdown files\nHandling your existing content library\n\nReady to make the switch? Let’s begin!",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "modules/03-troubleshooting/01-troubleshooting.html",
+    "href": "modules/03-troubleshooting/01-troubleshooting.html",
+    "title": "Troubleshooting",
+    "section": "",
+    "text": "Making the transition from PowerPoint and Word to Markdown brings up predictable challenges. Here are the most common issues educators face and how to solve them.\n\n\n\n\nYou’ve converted your slide, but the spacing, fonts, or layout don’t match your original PowerPoint exactly.\n\n\n\n\nPowerPoint gives pixel-perfect control over placement\nMarkdown prioritizes content structure over precise visual control\nDifferent devices and screen sizes display content differently\n\n\n\n\nEmbrace the flexibility — this is actually a feature, not a bug.\n\n\n\n\n\n\nNoteReal Example: The Mobile Revolution\n\n\n\nDr. Sarah Chen’s PowerPoint slides were unreadable on phones. After converting to Markdown, her student engagement increased 40% because students could finally read course materials on mobile devices during commutes.\n\n\nPractical Steps: 1. Focus on content hierarchy (headings, subheadings) 2. Use lists and emphasis strategically 3. Trust that clean structure creates better learning experiences 4. Preview on different devices to see the benefits\n\n\n\n\n\n\n\nLooking at Markdown documentation feels like learning a programming language.\n\n\n\nYou only need 5 pieces of syntax for 90% of educational content: - # for headings - * for emphasis - - for lists - []() for links - ![]()for images\n\n\n\nLearn one piece at a time — ignore everything else initially.\nWeek 1: Just practice headings and paragraphs\nWeek 2: Add lists and emphasis\nWeek 3: Include images and links\n\n\n\n\n\n\nTipCheat Sheet Approach\n\n\n\nPrint out a simple syntax reference and keep it by your computer. Most educators stop referencing it after about two weeks of regular use.\n\n\n\n\n\n\n\n\n\nYour PowerPoint slides use transitions, animations, and timed reveals that don’t translate to Markdown.\n\n\n\nGood news: Research shows most slide animations don’t improve learning outcomes and can actually distract from content.\n\n\n\nReplace animations with better content structure: - Instead of revealing bullet points one-by-one, use numbered steps - Replace slide transitions with clear headings - Use callout boxes for important information - Create suspense through storytelling, not visual effects\nBefore (PowerPoint):\nSlide 1: \"What is Photosynthesis?\" (fade in)\nSlide 2: → \"Plants make food\" (bullet appears)\nSlide 3: → \"Using sunlight\" (bullet appears)\nSlide 4: → \"And carbon dioxide\" (bullet appears)\nAfter (Markdown):\n# What is Photosynthesis?\n\nPhotosynthesis is how plants create their own food using three key ingredients:\n\n1. **Sunlight** — captured by chlorophyll in leaves\n2. **Carbon dioxide** — absorbed from the air\n3. **Water** — absorbed through roots\n\n:::{.callout-important}\n## Why This Matters\nWithout photosynthesis, there would be no oxygen for animals to breathe!\n:::\n\n\n\n\n\n\n\nYou’re used to real-time collaborative editing in Google Docs or shared PowerPoint files.\n\n\n\nMarkdown uses version control instead of simultaneous editing — actually better for course content.\n\n\n\nBenefits you’ll discover: - See exactly what changed and when - Never lose work due to conflicting edits - Merge contributions without destroying anyone’s work - Track who made which suggestions\nFor team teaching: 1. One person makes changes 2. Others review and suggest edits 3. Changes are merged systematically 4. Everyone always has the current version\n\n\n\n\n\n\n\nYou have 50 PowerPoint presentations and 200 Word documents. Converting everything feels impossible.\n\n\n\nDon’t convert everything — convert strategically.\nPriority 1: Content you update frequently - Course syllabi - Assignment instructions - Frequently changing policies\nPriority 2: Content you share often - Handouts for multiple classes - Materials you send to colleagues - Resources you post online\nPriority 3: Everything else - Keep using PowerPoint for one-off presentations - Convert older content only when you need to update it\n\n\n\n\n\n\nTipThe 20% Rule\n\n\n\nMost educators find that 20% of their content gets used 80% of the time. Start by converting that 20%.\n\n\n\n\n\n\n\n\n\nYour Markdown file won’t display correctly, or you’ve accidentally deleted important content.\n\n\n\nCourseFoundry has your back: - Version history shows all your previous saves - Preview mode lets you see problems before publishing - Simple syntax means most “breaks” are just missing characters\nCommon Fixes: - Missing heading: Add # before your title - Broken link: Check for typos in [text](url) - Image not showing: Verify file name and location - List not working: Make sure you have spaces after -\nWhen in doubt: Copy your content, start with a simple template, then add complexity gradually.\n\n\n\n\n\n\n\nStudents are used to your PowerPoint slides and resist the new format.\n\n\n\nFrame it as an upgrade, not a change:\n“I’m using a new system that makes course materials: - Readable on your phone - Accessible to screen readers - Always up-to-date - Searchable and printable”\n\n\n\n\nMobile-friendly: Read on phones during commute\nFaster loading: No large PowerPoint downloads\nAlways current: No more outdated versions\nBetter accessibility: Works with assistive technologies\n\n\n\n\n\n\n\nNoteStudent Feedback Reality\n\n\n\nAfter initial resistance, most students prefer Markdown-based content because it’s easier to access and use. Give it 2-3 weeks for the transition.\n\n\n\n\n\n\n\nIf you’re facing an issue not covered here:\n\nCheck the step-by-step lessons — your answer might be in an earlier step\nUse the CourseFoundry help — built-in guidance for platform-specific issues\nStart simple — strip back to basics and add complexity gradually\nRemember your goal — focus on helping students learn, not perfect formatting\n\nThe transition from PowerPoint to Markdown is a journey, not a destination. Every educator who successfully made this switch started exactly where you are now.",
+    "crumbs": [
+      "Troubleshooting",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "objectID": "modules/03-troubleshooting/01-troubleshooting.html#my-formatting-doesnt-look-exactly-like-powerpoint",
+    "href": "modules/03-troubleshooting/01-troubleshooting.html#my-formatting-doesnt-look-exactly-like-powerpoint",
+    "title": "Troubleshooting",
+    "section": "",
+    "text": "You’ve converted your slide, but the spacing, fonts, or layout don’t match your original PowerPoint exactly.\n\n\n\n\nPowerPoint gives pixel-perfect control over placement\nMarkdown prioritizes content structure over precise visual control\nDifferent devices and screen sizes display content differently\n\n\n\n\nEmbrace the flexibility — this is actually a feature, not a bug.\n\n\n\n\n\n\nNoteReal Example: The Mobile Revolution\n\n\n\nDr. Sarah Chen’s PowerPoint slides were unreadable on phones. After converting to Markdown, her student engagement increased 40% because students could finally read course materials on mobile devices during commutes.\n\n\nPractical Steps: 1. Focus on content hierarchy (headings, subheadings) 2. Use lists and emphasis strategically 3. Trust that clean structure creates better learning experiences 4. Preview on different devices to see the benefits",
+    "crumbs": [
+      "Troubleshooting",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "objectID": "modules/03-troubleshooting/01-troubleshooting.html#im-overwhelmed-by-all-the-syntax",
+    "href": "modules/03-troubleshooting/01-troubleshooting.html#im-overwhelmed-by-all-the-syntax",
+    "title": "Troubleshooting",
+    "section": "",
+    "text": "Looking at Markdown documentation feels like learning a programming language.\n\n\n\nYou only need 5 pieces of syntax for 90% of educational content: - # for headings - * for emphasis - - for lists - []() for links - ![]()for images\n\n\n\nLearn one piece at a time — ignore everything else initially.\nWeek 1: Just practice headings and paragraphs\nWeek 2: Add lists and emphasis\nWeek 3: Include images and links\n\n\n\n\n\n\nTipCheat Sheet Approach\n\n\n\nPrint out a simple syntax reference and keep it by your computer. Most educators stop referencing it after about two weeks of regular use.",
+    "crumbs": [
+      "Troubleshooting",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "objectID": "modules/03-troubleshooting/01-troubleshooting.html#what-about-my-slide-animations",
+    "href": "modules/03-troubleshooting/01-troubleshooting.html#what-about-my-slide-animations",
+    "title": "Troubleshooting",
+    "section": "",
+    "text": "Your PowerPoint slides use transitions, animations, and timed reveals that don’t translate to Markdown.\n\n\n\nGood news: Research shows most slide animations don’t improve learning outcomes and can actually distract from content.\n\n\n\nReplace animations with better content structure: - Instead of revealing bullet points one-by-one, use numbered steps - Replace slide transitions with clear headings - Use callout boxes for important information - Create suspense through storytelling, not visual effects\nBefore (PowerPoint):\nSlide 1: \"What is Photosynthesis?\" (fade in)\nSlide 2: → \"Plants make food\" (bullet appears)\nSlide 3: → \"Using sunlight\" (bullet appears)\nSlide 4: → \"And carbon dioxide\" (bullet appears)\nAfter (Markdown):\n# What is Photosynthesis?\n\nPhotosynthesis is how plants create their own food using three key ingredients:\n\n1. **Sunlight** — captured by chlorophyll in leaves\n2. **Carbon dioxide** — absorbed from the air\n3. **Water** — absorbed through roots\n\n:::{.callout-important}\n## Why This Matters\nWithout photosynthesis, there would be no oxygen for animals to breathe!\n:::",
+    "crumbs": [
+      "Troubleshooting",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "objectID": "modules/03-troubleshooting/01-troubleshooting.html#how-do-i-collaborate-like-google-docs",
+    "href": "modules/03-troubleshooting/01-troubleshooting.html#how-do-i-collaborate-like-google-docs",
+    "title": "Troubleshooting",
+    "section": "",
+    "text": "You’re used to real-time collaborative editing in Google Docs or shared PowerPoint files.\n\n\n\nMarkdown uses version control instead of simultaneous editing — actually better for course content.\n\n\n\nBenefits you’ll discover: - See exactly what changed and when - Never lose work due to conflicting edits - Merge contributions without destroying anyone’s work - Track who made which suggestions\nFor team teaching: 1. One person makes changes 2. Others review and suggest edits 3. Changes are merged systematically 4. Everyone always has the current version",
+    "crumbs": [
+      "Troubleshooting",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "objectID": "modules/03-troubleshooting/01-troubleshooting.html#what-about-my-existing-content-library",
+    "href": "modules/03-troubleshooting/01-troubleshooting.html#what-about-my-existing-content-library",
+    "title": "Troubleshooting",
+    "section": "",
+    "text": "You have 50 PowerPoint presentations and 200 Word documents. Converting everything feels impossible.\n\n\n\nDon’t convert everything — convert strategically.\nPriority 1: Content you update frequently - Course syllabi - Assignment instructions - Frequently changing policies\nPriority 2: Content you share often - Handouts for multiple classes - Materials you send to colleagues - Resources you post online\nPriority 3: Everything else - Keep using PowerPoint for one-off presentations - Convert older content only when you need to update it\n\n\n\n\n\n\nTipThe 20% Rule\n\n\n\nMost educators find that 20% of their content gets used 80% of the time. Start by converting that 20%.",
+    "crumbs": [
+      "Troubleshooting",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "objectID": "modules/03-troubleshooting/01-troubleshooting.html#i-made-a-mistake-and-broke-everything",
+    "href": "modules/03-troubleshooting/01-troubleshooting.html#i-made-a-mistake-and-broke-everything",
+    "title": "Troubleshooting",
+    "section": "",
+    "text": "Your Markdown file won’t display correctly, or you’ve accidentally deleted important content.\n\n\n\nCourseFoundry has your back: - Version history shows all your previous saves - Preview mode lets you see problems before publishing - Simple syntax means most “breaks” are just missing characters\nCommon Fixes: - Missing heading: Add # before your title - Broken link: Check for typos in [text](url) - Image not showing: Verify file name and location - List not working: Make sure you have spaces after -\nWhen in doubt: Copy your content, start with a simple template, then add complexity gradually.",
+    "crumbs": [
+      "Troubleshooting",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "objectID": "modules/03-troubleshooting/01-troubleshooting.html#my-students-dont-like-the-change",
+    "href": "modules/03-troubleshooting/01-troubleshooting.html#my-students-dont-like-the-change",
+    "title": "Troubleshooting",
+    "section": "",
+    "text": "Students are used to your PowerPoint slides and resist the new format.\n\n\n\nFrame it as an upgrade, not a change:\n“I’m using a new system that makes course materials: - Readable on your phone - Accessible to screen readers - Always up-to-date - Searchable and printable”\n\n\n\n\nMobile-friendly: Read on phones during commute\nFaster loading: No large PowerPoint downloads\nAlways current: No more outdated versions\nBetter accessibility: Works with assistive technologies\n\n\n\n\n\n\n\nNoteStudent Feedback Reality\n\n\n\nAfter initial resistance, most students prefer Markdown-based content because it’s easier to access and use. Give it 2-3 weeks for the transition.",
+    "crumbs": [
+      "Troubleshooting",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "objectID": "modules/03-troubleshooting/01-troubleshooting.html#still-stuck",
+    "href": "modules/03-troubleshooting/01-troubleshooting.html#still-stuck",
+    "title": "Troubleshooting",
+    "section": "",
+    "text": "If you’re facing an issue not covered here:\n\nCheck the step-by-step lessons — your answer might be in an earlier step\nUse the CourseFoundry help — built-in guidance for platform-specific issues\nStart simple — strip back to basics and add complexity gradually\nRemember your goal — focus on helping students learn, not perfect formatting\n\nThe transition from PowerPoint to Markdown is a journey, not a destination. Every educator who successfully made this switch started exactly where you are now.",
+    "crumbs": [
+      "Troubleshooting",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/01-first-step.html",
+    "href": "modules/02-steps/01-first-step.html",
+    "title": "Step 1: Why Make the Switch?",
+    "section": "",
+    "text": "You’ve been creating course content in PowerPoint and Word for years. They’re familiar, visual, and seem to work fine. So why should you consider learning something entirely new?\nAs an educator, you already know the most important thing: content matters more than fancy formatting. Markdown helps you focus on what you do best — teaching — while handling the technical stuff behind the scenes.\nIn this first step, we’ll explore the hidden problems with traditional tools and discover how Markdown solves challenges you face every semester.\n\n\n\n\nIt’s week 3 of the semester. You need to update your syllabus because the guest speaker moved from week 8 to week 10. Your file explorer looks like this:\nSyllabus_Fall2024.docx\nSyllabus_Fall2024_revised.docx  \nSyllabus_Fall2024_UPDATED.docx\nSyllabus_Fall2024_final.docx\nSyllabus_Fall2024_final_FINAL.docx\nSyllabus_Fall2024_with_new_dates.docx\nThe questions that keep you up at night: - Which version did I upload to the LMS? - Did I email the old version to that student who missed class? - What exactly changed between “final” and “FINAL”?\nWith Markdown and CourseFoundry: - One file: syllabus.qmd - Update it once, publish once - Students always see the current version - You can see exactly what changed and when\n\n\n\n\n\n\nYou’re co-teaching with Dr. Martinez. She sends you the shared PowerPoint with her changes. You make your edits and send it back. Meanwhile, she’s made more changes to her copy. Now you have:\n\nYour version with her original changes + your new changes\nHer version with her original changes + her newer changes\nNo easy way to see what conflicts exist\nHours of work comparing slides side-by-side\n\nWith Markdown: - Both edit the same file - System automatically shows conflicts - Clear history of who changed what - No more “Did you see my changes to slide 15?” emails\n\n\n\n\n\n\nYou upload a beautifully formatted PowerPoint. Here’s what happens:\nMaria (uses a screen reader): - Can’t navigate between slides easily - Screen reader stumbles on text boxes - Can’t tell which bullet points go together\nDavid (dyslexic): - Can’t adjust text size in PowerPoint - Can’t change background color for better contrast - Can’t use his reading tools\nAisha (studies on her phone during commute): - PowerPoint doesn’t display properly on mobile - Can’t search for specific content - Has to zoom and scroll constantly\nWith Markdown content: - Screen readers navigate perfectly - Students can adjust fonts and colors - Works beautifully on any device - Fully searchable\n\n\n\n\nLet’s look at actual course content in both formats:\n\n\nSlide 1: [Title] \"Essay Writing Guidelines\"\n         [Subtitle] \"English 101 - Fall 2024\"\n\nSlide 2: [Header] \"Length Requirements\"  \n         • Introduction: 1 paragraph\n         • Body: 3-4 paragraphs  \n         • Conclusion: 1 paragraph\n         • Total: 500-750 words\n\nSlide 3: [Header] \"Citation Format\"\n         Use MLA Style (8th edition)\n         [Link that may not work when copied]\n\nSlide 4: [Header] \"Due Dates\"\n         [Table that's hard to edit]\n         First Draft | October 15\n         Peer Review | October 22  \n         Final Draft | November 1\n\nSlide 5: [Header] \"Common Mistakes\"\n         ❌ Weak thesis statements\n         ❌ No topic sentences\n         ❌ Missing transitions\n\n\n\n# Essay Writing Guidelines\n*English 101 - Fall 2024*\n\n## Length Requirements\n\nYour essay should include:\n\n- **Introduction**: 1 paragraph with clear thesis statement\n- **Body**: 3-4 paragraphs, each with a topic sentence\n- **Conclusion**: 1 paragraph that reinforces your thesis\n- **Total length**: 500-750 words\n\n## Citation Format\n\nUse [MLA Style (8th edition)](https://owl.purdue.edu/owl/research_and_citation/mla_style/).\n\n::: {.callout-tip}\n## Need help with citations?\nThe library offers MLA formatting workshops every Tuesday at 2 PM.\n:::\n\n## Due Dates\n\n| Assignment | Due Date | Points |\n|------------|----------|--------|\n| First Draft | October 15 | 20 |\n| Peer Review | October 22 | 10 |\n| Final Draft | November 1 | 70 |\n\n## Avoid These Common Mistakes\n\n::: {.callout-warning}\n**Watch out for:**\n\n- **Weak thesis statements** — Be specific about your argument\n- **Missing topic sentences** — Each paragraph needs a clear focus  \n- **No transitions** — Help readers follow your logic\n:::\nStudents love the Markdown version because: - They can bookmark specific sections - Links actually work when they copy/paste - Tables are easy to read on mobile - They can search for “due dates” and find it instantly - Warning boxes draw attention to important points\n\n\n\n\n\n\n“Professor, I found a typo on slide 12 of today’s presentation. It says ‘Napoleon was born in 1796’ but he was born in 1769.”\nYour traditional workflow: 1. Find the original PowerPoint file 2. Make the correction 3. Save a new version (or overwrite — risky!) 4. Upload to LMS 5. Email class about the correction 6. Hope everyone downloads the new version 7. Still get questions about the typo next week\nYour Markdown workflow: 1. Edit the file 2. Hit “Save” 3. Done. Everyone sees the correction immediately.\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nDr. Janet Williams, Psychology Department:\n“I spent more time fighting with Word formatting than writing content. Now I write in plain text, and it looks professional automatically. My students say the content is easier to navigate than my old handouts.”\n\n\n\n\n\n\n\n\nTip\n\n\n\nProfessor Mike Chen, Community College:\n“Three of us teach the same course. With PowerPoint, we had sync problems constantly. Now we all edit the same Markdown files, and changes show up for everyone immediately. Game changer.”\n\n\n\n\n\n\n\n\nTip\n\n\n\nDr. Rosa Martinez, Online Learning Coordinator:\n“My students with disabilities struggled with my PowerPoint-heavy course. Markdown content works with all their assistive technologies. Accessibility compliance went from nightmare to automatic.”\n\n\n\n\n\n“But I love my colorful slides and fancy animations!”\nHere’s what you’ll still have:\n✅ Professional appearance — Clean, consistent formatting\n✅ Images and videos — Easy to add, work on all devices\n✅ Tables and lists — Simpler to create and edit\n✅ Emphasis and highlighting — Bold, italics, callout boxes\n✅ Your teaching style — Focus on content, not formatting fights\nWhat you’ll lose: ❌ Hours spent adjusting margins and bullet point spacing\n❌ “Why does this look different on my computer?” confusion\n❌ Version control nightmares\n❌ Collaboration headaches\n\n\n\nBefore we start creating, let’s get honest about your current workflow. Grab a piece of paper (or open a text file) and jot down:\n\n\n\nLook at your desktop or Documents folder right now. How many files do you see with “final,” “revised,” or “updated” in the name?\nThink about last semester. How many times did you upload the wrong version of something to your LMS?\n\n\n\n\n\nRate your frustration (1-10) when working on shared documents with colleagues\nCount the emails in your inbox with subject lines like “Latest version attached” or “Did you see my changes?”\n\n\n\n\n\nRemember the last time a student couldn’t open or properly view your materials\nThink about mobile users. Do your materials work well on phones?\n\n\n\n\n\nEstimate time spent last month redistributing corrected or updated files\nCount how many places you have to update when you change one piece of information\n\nKeep this list handy — as we learn Markdown, you’ll see how each pain point dissolves.\n\n\n\n\nOld thinking: “I need to make this look perfect in PowerPoint.” New thinking: “I need to write clear content that serves my students.”\nOld workflow: Create → Format → Fight with formatting → Upload → Repeat New workflow: Write → Publish → Done\nThis isn’t about learning technology — it’s about getting back to what you became an educator to do: teach great content.\n\n\n\nIn Step 2, you’ll create your first Markdown document. We’ll start with something you do all the time: writing a lesson with headers and paragraphs.\nYou’ll take a simple concept from your field and format it in Markdown. No complex syntax, no overwhelming features — just clean, readable content that works everywhere.\nThe best part? By the end of Step 2, you’ll have something you can actually use in your teaching.\nReady to write your first Markdown content? Let’s head to Step 2!\n\nRemember: You’re not abandoning your teaching expertise — you’re upgrading your tools to match your skills.",
+    "crumbs": [
+      "Steps",
+      "First Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/01-first-step.html#the-final-version-problem",
+    "href": "modules/02-steps/01-first-step.html#the-final-version-problem",
+    "title": "Step 1: Why Make the Switch?",
+    "section": "",
+    "text": "It’s week 3 of the semester. You need to update your syllabus because the guest speaker moved from week 8 to week 10. Your file explorer looks like this:\nSyllabus_Fall2024.docx\nSyllabus_Fall2024_revised.docx  \nSyllabus_Fall2024_UPDATED.docx\nSyllabus_Fall2024_final.docx\nSyllabus_Fall2024_final_FINAL.docx\nSyllabus_Fall2024_with_new_dates.docx\nThe questions that keep you up at night: - Which version did I upload to the LMS? - Did I email the old version to that student who missed class? - What exactly changed between “final” and “FINAL”?\nWith Markdown and CourseFoundry: - One file: syllabus.qmd - Update it once, publish once - Students always see the current version - You can see exactly what changed and when",
+    "crumbs": [
+      "Steps",
+      "First Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/01-first-step.html#the-collaboration-catastrophe",
+    "href": "modules/02-steps/01-first-step.html#the-collaboration-catastrophe",
+    "title": "Step 1: Why Make the Switch?",
+    "section": "",
+    "text": "You’re co-teaching with Dr. Martinez. She sends you the shared PowerPoint with her changes. You make your edits and send it back. Meanwhile, she’s made more changes to her copy. Now you have:\n\nYour version with her original changes + your new changes\nHer version with her original changes + her newer changes\nNo easy way to see what conflicts exist\nHours of work comparing slides side-by-side\n\nWith Markdown: - Both edit the same file - System automatically shows conflicts - Clear history of who changed what - No more “Did you see my changes to slide 15?” emails",
+    "crumbs": [
+      "Steps",
+      "First Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/01-first-step.html#the-student-accessibility-reality-check",
+    "href": "modules/02-steps/01-first-step.html#the-student-accessibility-reality-check",
+    "title": "Step 1: Why Make the Switch?",
+    "section": "",
+    "text": "You upload a beautifully formatted PowerPoint. Here’s what happens:\nMaria (uses a screen reader): - Can’t navigate between slides easily - Screen reader stumbles on text boxes - Can’t tell which bullet points go together\nDavid (dyslexic): - Can’t adjust text size in PowerPoint - Can’t change background color for better contrast - Can’t use his reading tools\nAisha (studies on her phone during commute): - PowerPoint doesn’t display properly on mobile - Can’t search for specific content - Has to zoom and scroll constantly\nWith Markdown content: - Screen readers navigate perfectly - Students can adjust fonts and colors - Works beautifully on any device - Fully searchable",
+    "crumbs": [
+      "Steps",
+      "First Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/01-first-step.html#side-by-side-same-content-different-worlds",
+    "href": "modules/02-steps/01-first-step.html#side-by-side-same-content-different-worlds",
+    "title": "Step 1: Why Make the Switch?",
+    "section": "",
+    "text": "Let’s look at actual course content in both formats:\n\n\nSlide 1: [Title] \"Essay Writing Guidelines\"\n         [Subtitle] \"English 101 - Fall 2024\"\n\nSlide 2: [Header] \"Length Requirements\"  \n         • Introduction: 1 paragraph\n         • Body: 3-4 paragraphs  \n         • Conclusion: 1 paragraph\n         • Total: 500-750 words\n\nSlide 3: [Header] \"Citation Format\"\n         Use MLA Style (8th edition)\n         [Link that may not work when copied]\n\nSlide 4: [Header] \"Due Dates\"\n         [Table that's hard to edit]\n         First Draft | October 15\n         Peer Review | October 22  \n         Final Draft | November 1\n\nSlide 5: [Header] \"Common Mistakes\"\n         ❌ Weak thesis statements\n         ❌ No topic sentences\n         ❌ Missing transitions\n\n\n\n# Essay Writing Guidelines\n*English 101 - Fall 2024*\n\n## Length Requirements\n\nYour essay should include:\n\n- **Introduction**: 1 paragraph with clear thesis statement\n- **Body**: 3-4 paragraphs, each with a topic sentence\n- **Conclusion**: 1 paragraph that reinforces your thesis\n- **Total length**: 500-750 words\n\n## Citation Format\n\nUse [MLA Style (8th edition)](https://owl.purdue.edu/owl/research_and_citation/mla_style/).\n\n::: {.callout-tip}\n## Need help with citations?\nThe library offers MLA formatting workshops every Tuesday at 2 PM.\n:::\n\n## Due Dates\n\n| Assignment | Due Date | Points |\n|------------|----------|--------|\n| First Draft | October 15 | 20 |\n| Peer Review | October 22 | 10 |\n| Final Draft | November 1 | 70 |\n\n## Avoid These Common Mistakes\n\n::: {.callout-warning}\n**Watch out for:**\n\n- **Weak thesis statements** — Be specific about your argument\n- **Missing topic sentences** — Each paragraph needs a clear focus  \n- **No transitions** — Help readers follow your logic\n:::\nStudents love the Markdown version because: - They can bookmark specific sections - Links actually work when they copy/paste - Tables are easy to read on mobile - They can search for “due dates” and find it instantly - Warning boxes draw attention to important points",
+    "crumbs": [
+      "Steps",
+      "First Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/01-first-step.html#the-update-panic-every-educator-knows",
+    "href": "modules/02-steps/01-first-step.html#the-update-panic-every-educator-knows",
+    "title": "Step 1: Why Make the Switch?",
+    "section": "",
+    "text": "“Professor, I found a typo on slide 12 of today’s presentation. It says ‘Napoleon was born in 1796’ but he was born in 1769.”\nYour traditional workflow: 1. Find the original PowerPoint file 2. Make the correction 3. Save a new version (or overwrite — risky!) 4. Upload to LMS 5. Email class about the correction 6. Hope everyone downloads the new version 7. Still get questions about the typo next week\nYour Markdown workflow: 1. Edit the file 2. Hit “Save” 3. Done. Everyone sees the correction immediately.",
+    "crumbs": [
+      "Steps",
+      "First Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/01-first-step.html#what-real-educators-say",
+    "href": "modules/02-steps/01-first-step.html#what-real-educators-say",
+    "title": "Step 1: Why Make the Switch?",
+    "section": "",
+    "text": "Tip\n\n\n\nDr. Janet Williams, Psychology Department:\n“I spent more time fighting with Word formatting than writing content. Now I write in plain text, and it looks professional automatically. My students say the content is easier to navigate than my old handouts.”\n\n\n\n\n\n\n\n\nTip\n\n\n\nProfessor Mike Chen, Community College:\n“Three of us teach the same course. With PowerPoint, we had sync problems constantly. Now we all edit the same Markdown files, and changes show up for everyone immediately. Game changer.”\n\n\n\n\n\n\n\n\nTip\n\n\n\nDr. Rosa Martinez, Online Learning Coordinator:\n“My students with disabilities struggled with my PowerPoint-heavy course. Markdown content works with all their assistive technologies. Accessibility compliance went from nightmare to automatic.”",
+    "crumbs": [
+      "Steps",
+      "First Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/01-first-step.html#what-youre-not-sacrificing",
+    "href": "modules/02-steps/01-first-step.html#what-youre-not-sacrificing",
+    "title": "Step 1: Why Make the Switch?",
+    "section": "",
+    "text": "“But I love my colorful slides and fancy animations!”\nHere’s what you’ll still have:\n✅ Professional appearance — Clean, consistent formatting\n✅ Images and videos — Easy to add, work on all devices\n✅ Tables and lists — Simpler to create and edit\n✅ Emphasis and highlighting — Bold, italics, callout boxes\n✅ Your teaching style — Focus on content, not formatting fights\nWhat you’ll lose: ❌ Hours spent adjusting margins and bullet point spacing\n❌ “Why does this look different on my computer?” confusion\n❌ Version control nightmares\n❌ Collaboration headaches",
+    "crumbs": [
+      "Steps",
+      "First Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/01-first-step.html#hands-on-activity-your-pain-point-audit",
+    "href": "modules/02-steps/01-first-step.html#hands-on-activity-your-pain-point-audit",
+    "title": "Step 1: Why Make the Switch?",
+    "section": "",
+    "text": "Before we start creating, let’s get honest about your current workflow. Grab a piece of paper (or open a text file) and jot down:\n\n\n\nLook at your desktop or Documents folder right now. How many files do you see with “final,” “revised,” or “updated” in the name?\nThink about last semester. How many times did you upload the wrong version of something to your LMS?\n\n\n\n\n\nRate your frustration (1-10) when working on shared documents with colleagues\nCount the emails in your inbox with subject lines like “Latest version attached” or “Did you see my changes?”\n\n\n\n\n\nRemember the last time a student couldn’t open or properly view your materials\nThink about mobile users. Do your materials work well on phones?\n\n\n\n\n\nEstimate time spent last month redistributing corrected or updated files\nCount how many places you have to update when you change one piece of information\n\nKeep this list handy — as we learn Markdown, you’ll see how each pain point dissolves.",
+    "crumbs": [
+      "Steps",
+      "First Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/01-first-step.html#the-mindset-shift-that-changes-everything",
+    "href": "modules/02-steps/01-first-step.html#the-mindset-shift-that-changes-everything",
+    "title": "Step 1: Why Make the Switch?",
+    "section": "",
+    "text": "Old thinking: “I need to make this look perfect in PowerPoint.” New thinking: “I need to write clear content that serves my students.”\nOld workflow: Create → Format → Fight with formatting → Upload → Repeat New workflow: Write → Publish → Done\nThis isn’t about learning technology — it’s about getting back to what you became an educator to do: teach great content.",
+    "crumbs": [
+      "Steps",
+      "First Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/01-first-step.html#what-happens-next",
+    "href": "modules/02-steps/01-first-step.html#what-happens-next",
+    "title": "Step 1: Why Make the Switch?",
+    "section": "",
+    "text": "In Step 2, you’ll create your first Markdown document. We’ll start with something you do all the time: writing a lesson with headers and paragraphs.\nYou’ll take a simple concept from your field and format it in Markdown. No complex syntax, no overwhelming features — just clean, readable content that works everywhere.\nThe best part? By the end of Step 2, you’ll have something you can actually use in your teaching.\nReady to write your first Markdown content? Let’s head to Step 2!\n\nRemember: You’re not abandoning your teaching expertise — you’re upgrading your tools to match your skills.",
+    "crumbs": [
+      "Steps",
+      "First Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/06-sixth-step.html",
+    "href": "modules/02-steps/06-sixth-step.html",
+    "title": "Step 6: Evaluate your converted content and preview final course materials",
+    "section": "",
+    "text": "Describe what this step accomplishes in one sentence.\n\n\n\nOpen your terminal and run:\n\n# Replace with your actual command\n\nYou should see the expected output.\nContinue with the next action…\n\n\n\n\n\n\n\nNote\n\n\n\nIf you see a different result, check that you completed the previous step correctly.\n\n\n\n\n\nBefore moving on, verify that:\n\nYour environment is responding correctly\nThe output matches what was shown above\n\n\n\n\nExplain briefly what the learner just did and why it matters.",
+    "crumbs": [
+      "Steps",
+      "Sixth Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/06-sixth-step.html#step-6-evaluate-your-converted-content-and-preview-final-course-materials",
+    "href": "modules/02-steps/06-sixth-step.html#step-6-evaluate-your-converted-content-and-preview-final-course-materials",
+    "title": "Step 6: Evaluate your converted content and preview final course materials",
+    "section": "",
+    "text": "Describe what this step accomplishes in one sentence.\n\n\n\nOpen your terminal and run:\n\n# Replace with your actual command\n\nYou should see the expected output.\nContinue with the next action…\n\n\n\n\n\n\n\nNote\n\n\n\nIf you see a different result, check that you completed the previous step correctly.\n\n\n\n\n\nBefore moving on, verify that:\n\nYour environment is responding correctly\nThe output matches what was shown above\n\n\n\n\nExplain briefly what the learner just did and why it matters.",
+    "crumbs": [
+      "Steps",
+      "Sixth Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/03-third-step.html",
+    "href": "modules/02-steps/03-third-step.html",
+    "title": "Step 3: Convert a Word document lesson into structured Markdown format",
+    "section": "",
+    "text": "Describe what this step accomplishes in one sentence.\n\n\n\nOpen your terminal and run:\n\n# Replace with your actual command\n\nYou should see the expected output.\nContinue with the next action…\n\n\n\n\n\n\n\nNote\n\n\n\nIf you see a different result, check that you completed the previous step correctly.\n\n\n\n\n\nBefore moving on, verify that:\n\nYour environment is responding correctly\nThe output matches what was shown above\n\n\n\n\nExplain briefly what the learner just did and why it matters.",
+    "crumbs": [
+      "Steps",
+      "Third Step"
+    ]
+  },
+  {
+    "objectID": "modules/02-steps/03-third-step.html#step-3-convert-a-word-document-lesson-into-structured-markdown-format",
+    "href": "modules/02-steps/03-third-step.html#step-3-convert-a-word-document-lesson-into-structured-markdown-format",
+    "title": "Step 3: Convert a Word document lesson into structured Markdown format",
+    "section": "",
+    "text": "Describe what this step accomplishes in one sentence.\n\n\n\nOpen your terminal and run:\n\n# Replace with your actual command\n\nYou should see the expected output.\nContinue with the next action…\n\n\n\n\n\n\n\nNote\n\n\n\nIf you see a different result, check that you completed the previous step correctly.\n\n\n\n\n\nBefore moving on, verify that:\n\nYour environment is responding correctly\nThe output matches what was shown above\n\n\n\n\nExplain briefly what the learner just did and why it matters.",
+    "crumbs": [
+      "Steps",
+      "Third Step"
+    ]
+  }
+]
